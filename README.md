@@ -1,8 +1,8 @@
 ### SvelteKit TypeScript Cloudflare Boilerplate
 
-Minimalistic boilerplate for SvelteKit projects in TypeScript, optimized for Cloudflare Pages.
+Boilerplate for SvelteKit projects in TypeScript, optimized for Cloudflare Pages
 
-> ⚠️ When deploying, use SvelteKit preset and set `NODE_VERSION` env to `18.18` for compatibility.
+> ⚠️ When deploying, use SvelteKit preset and set `NODE_VERSION` env to `18.18` for compatibility
 
 #### Prerequisites
 
@@ -81,4 +81,4 @@ Minimalistic boilerplate for SvelteKit projects in TypeScript, optimized for Clo
 
 #### License
 
-This project is under the MIT License. See [LICENSE](LICENSE) for details.
+[MIT](LICENSE)
