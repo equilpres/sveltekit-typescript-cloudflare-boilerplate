@@ -11,6 +11,7 @@
 	"engines": {
 		"node": "^20.15"
 	},
+	"packageManager": "pnpm@9.4.0",
 	"license": "MIT",
 	"scripts": {
 		"dev": "vite dev --host ::",
