@@ -1,3 +1,5 @@
+// @ts-check
+
 import adapter from '@sveltejs/adapter-cloudflare';
 import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 
@@ -10,7 +12,6 @@ const config = {
 				include: ['/*'],
 				exclude: ['<all>'],
 			},
-			precompress: true,
 			platformProxy: {
 				persist: {
 					path: './.wrangler/platform-proxy/v3',
